@@ -1,0 +1,29 @@
+{
+  "name": "javascript-datastructures",
+  "version": "1.0.0",
+  "description": "Javascript Datastructures and Algorithms",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meegada-Mahesh/JavaScript-DataStructures.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "js",
+    "Ds",
+    "algo"
+  ],
+  "author": "Meegada.Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meegada-Mahesh/JavaScript-DataStructures/issues"
+  },
+  "homepage": "https://github.com/Meegada-Mahesh/JavaScript-DataStructures#readme",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}
